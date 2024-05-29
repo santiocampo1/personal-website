@@ -1,5 +1,7 @@
 # My Personal Portfolio and Website 💻 🌐
 
+[![Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow.svg)](https://shields.io/)
+
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
@@ -22,7 +24,7 @@ This is a personal portfolio and website project built using React, a popular Ja
 To run this project locally, follow these steps:
 
 1. Clone the repository: `git clone git@github.com:santiocampo1/personal-website.git`
-2. Navigate to the project directory: `cd personal-portfolio`
+2. Navigate to the project directory: `cd personal-website`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
