@@ -1,8 +1,13 @@
-import React from 'react'
+import React from 'react';
+import Avatar from './Avatar';
+import AboutMenu from './AboutMenu';
 
 const About = () => {
   return (
-    <div>About</div>
+    <>
+      <Avatar page='about'/>
+      <AboutMenu />
+    </>
   )
 }
 
