@@ -6,16 +6,16 @@
 
 .avatar.about {
     height: 89vh;
-    bottom: -8vh;
+    bottom: 0vh;
     left: 50%;
     transform: translateX(-50%);
 }
 
 .avatar.skills {
-    height: 198vh;
-    bottom: -90vh;
-    left: -1.5rem;
-    transform: translateX(-0%) scaleX(-1);
+    height: 89vh;
+    bottom: 0vh;
+    left: 50%;
+    transform: translateX(-50%) scaleX(-1);
 }
 
 .shadow-overlay-skills {

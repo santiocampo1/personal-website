@@ -62,7 +62,7 @@ export class AboutMenu extends Component {
             title={subheading.title}
             content={subheading.content}
             active={activeSubHeading === index + 1}
-            onClick={() => this.handleSubheadingClick(index + 1)}
+            onClick={() => this.handleSubHeadingClick(index + 1)}
             menuItem={activeMenuItem}
           />
         ))}
