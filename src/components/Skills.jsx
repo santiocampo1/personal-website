@@ -1,8 +1,13 @@
-import React from 'react'
+import React from 'react';
+import Avatar from './Avatar';
+import SkillsMenu from './SkillsMenu';
 
 const Skills = () => {
   return (
-    <div>Skills</div>
+    <>
+      <Avatar page='skills'/>
+      <SkillsMenu />
+    </>
   )
 }
 
