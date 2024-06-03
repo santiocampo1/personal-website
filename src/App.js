@@ -6,6 +6,7 @@ import Skills from './components/Skills'
 import Projects from './components/Projects'
 import Contact from './components/Contact'
 import Background from './components/Background'
+import PlayerStats from './components/PlayerStats'
 import './styles/app.css'
 
 const App = () => {
@@ -19,6 +20,7 @@ const App = () => {
         <Route path="/projects" element={<Projects/>}/>
         <Route path="/contact" element={<Contact/>}/>
       </Routes>
+      <PlayerStats />
     </Router>
   )
 }
