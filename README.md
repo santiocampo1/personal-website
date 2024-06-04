@@ -39,3 +39,5 @@ This project will be deployed proximately to a hosting platform like GitHub Page
 While this is a personal project, contributions and feedback are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue, submit a pull request or just leave a comment.
 
 **Note:** I am still working on this project, and updates will be made as development progresses. 🚧
+
+Made with ❤️ by Santiago Ocampo.
