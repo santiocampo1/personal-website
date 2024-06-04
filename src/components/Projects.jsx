@@ -1,8 +1,11 @@
-import React from 'react'
+import React from 'react';
+import ProjectsMenu from './ProjectsMenu';
 
 const Projects = () => {
   return (
-    <div>Projects</div>
+    <>
+    <ProjectsMenu />
+    </>
   )
 }
 
