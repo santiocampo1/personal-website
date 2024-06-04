@@ -67,14 +67,14 @@ const Nav = () => {
 
         {renderNavLink(
           '/skills',
-          stack,
+          deadEye,
           'Dead Eye Icon',
           'nav-skills'
           )}
 
         {renderNavLink(
           '/projects',
-          deadEye,
+          stack,
           'Stack Icon',
           'nav-projects'
         )}
