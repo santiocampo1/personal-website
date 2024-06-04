@@ -6,15 +6,11 @@ const skills = {
         },
         {
             title: "CSS",
-            level: 5,
+            level: 6,
         },
         {
             title: "JavaScript",
             level: 6,
-        },
-        {
-            title: "TypeScript",
-            level: 5,
         },
         {
             title: "React JS",
@@ -23,6 +19,10 @@ const skills = {
         {
             title: "Bootstrap",
             level: 6,
+        },
+        {
+            title: "TypeScript",
+            level: 5,
         },
         {
             title: "SASS",
@@ -41,7 +41,7 @@ const skills = {
         },
         {
             title: "Java",
-            level: 5,
+            level: 6,
         },
         {
             title: "Node.js",
@@ -52,12 +52,12 @@ const skills = {
             level: 6,
         },
         {
-            title: "AWS Cognito",
-            level: 5,
-        },
-        {
             title: "SQL",
             level: 6, 
+        },
+        {
+            title: "AWS Cognito",
+            level: 5,
         },
         {
             title: "Python",
