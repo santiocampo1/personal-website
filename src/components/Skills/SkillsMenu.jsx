@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
 import classNames from 'classnames';
-import skills from './data/skillsData';
-import frontendIcon from '../assets/eagle-emblem.png';
-import backendIcon from '../assets/hawk-emblem.png';
-import '../styles/skillsMenu.css';
+import skills from '../data/skillsData';
+import frontendIcon from '../../assets/eagle-emblem.png';
+import backendIcon from '../../assets/hawk-emblem.png';
+import '../../styles/skillsMenu.css';
 
 export default class SkillsMenu extends Component {
   constructor(props) {

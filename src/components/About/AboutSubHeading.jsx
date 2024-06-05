@@ -1,6 +1,6 @@
 import React from 'react';
 import classNames from 'classnames';
-import '../styles/aboutMenu.css';
+import '../../styles/aboutMenu.css';
 
 const AboutSubHeading = ({ title, content, active, onClick, menuItem }) => {
     const subContainerClass = `sub-container-${menuItem}`;

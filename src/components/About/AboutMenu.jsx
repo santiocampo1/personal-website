@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import AboutMenuItem from './AboutMenuItem';
 import AboutSubHeading from './AboutSubHeading';
-import subheadingsData from './data/subheadingsData';
-import personalIcon from '../assets/moebius-triangle.png';
-import educationIcon from '../assets/upgrade.png';
-import careerIcon from '../assets/triple-corn.png';
+import subheadingsData from '../data/subheadingsData';
+import personalIcon from '../../assets/moebius-triangle.png';
+import educationIcon from '../../assets/upgrade.png';
+import careerIcon from '../../assets/triple-corn.png';
 
 
 export class AboutMenu extends Component {
