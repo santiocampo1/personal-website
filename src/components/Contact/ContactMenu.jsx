@@ -1,15 +1,15 @@
-import React, { Component, useState } from 'react'
+import React, { useState } from 'react'
 import emailjs from 'emailjs-com';
 import DOMPurify from 'dompurify';
 
 export default function ContactMenu() {
-    const initalState = {
+    const initialState = {
         name: '',
         email: '',
         message: ''
     };    
 
-    const [formData, setFormData] = useState(initalState);
+    const [formData, setFormData] = useState(initialState);
     const [errors, setErrors] = useState({});
     const [isLoading, setIsLoading] = useState(false);
     const [isSent, setIsSent] = useState(false);
@@ -47,9 +47,9 @@ export default function ContactMenu() {
         .send(serviceId, templateId, sanitizedData, userId)
         .then((response) => {
             console.log("Email has been sent successfully", response.text);
-            setFormData(initalState);
+            setFormData(initialState);
             setErrors({});
-            setIsSent(false);
+            setIsSent(true);
         })
         .catch((error) => {
             console.log("Email has not been sent successfully", error);
