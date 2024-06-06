@@ -1,9 +1,12 @@
-import React from 'react'
+import React from 'react';
+import ContactMenu from './ContactMenu';
 
 const Contact = () => {
   return (
-    <div>Contact</div>
+    <>
+      <ContactMenu />
+    </>
   )
 }
 
-export default Contact
+export default Contact;
