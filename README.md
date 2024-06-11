@@ -1,6 +1,6 @@
 # My Personal Portfolio and Website 💻 🌐
 
-[![Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow.svg)](https://shields.io/)
+[![Deployed](https://img.shields.io/badge/Status-Deployed-brightgreen.svg)](https://shields.io/)
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
@@ -32,7 +32,7 @@ The application should now be running on `http://localhost:3000`. 🎉
 
 ## Deployment 🚀
 
-This project will be deployed proximately to a hosting platform like GitHub Pages, Netlify, or Vercel. The deployment process will depend on the platform chosen.
+This project is deployed on Netlify and can be accessed at [https://santiagoocampo.netlify.app/](https://santiagoocampo.netlify.app/).
 
 ## Contributing 🤝
 
