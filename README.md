@@ -32,7 +32,7 @@ The application should now be running on `http://localhost:3000`. 🎉
 
 ## Deployment 🚀
 
-This project is deployed on Netlify and can be accessed at [https://santiagoocampo.netlify.app/](https://santiagoocampo.netlify.app/).
+This project is deployed on Netlify and can be accessed at [https://santiocampo.netlify.app/](https://santiocampo.netlify.app/).
 
 ## Contributing 🤝
 
