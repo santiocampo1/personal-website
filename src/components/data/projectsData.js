@@ -14,7 +14,7 @@ const projects = {
             </>
         ),
         github: "https://github.com/santiocampo1/spotify_clone",
-        demo: "https://netlify.com/"
+        demo: "https://songplayerclone.netlify.app"
     },
 
     2: {
