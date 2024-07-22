@@ -18,17 +18,17 @@ const projects = {
     },
 
     2: {
-        title: "Lorem Ipsum",
+        title: "Tasks Manager (CRUD)",
         image: projectTwo,
         description: (
             <>
                 <p>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+                    This is a full-stack web application built using the MERN (MongoDB, Express, React, Node.js) stack. The application is a task manager that allows users to create, read, update, and delete tasks.
                 </p>
             </>
         ),
-        github: "https://github.com/",
-        demo: "https://netlify.com/"
+        github: "https://github.com/santiocampo1/task-manager",
+        demo: "https://tasksmanagercrud.netlify.app"
     },
 
     3: {
@@ -37,7 +37,7 @@ const projects = {
         description: (
             <>
                 <p>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                 </p>
             </>
         ),
