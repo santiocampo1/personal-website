@@ -37,7 +37,7 @@ export default class ProjectsMenu extends Component {
 
     render() {
         const { activeProject } = this.state;
-        const projectItems = ["SPOTIFY CLONE", "ARCADE PONG", "BLOG SITE"];
+        const projectItems = ["SPOTIFY CLONE", "TASKS MANAGER (CRUD)",  "ARCADE PONG"];
 
         return (
             <div className="project-menu">

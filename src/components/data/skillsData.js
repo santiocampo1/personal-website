@@ -56,7 +56,7 @@ const skills = {
             level: 6, 
         },
         {
-            title: "AWS Cognito",
+            title: "AWS",
             level: 5,
         },
         {
